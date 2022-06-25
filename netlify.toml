@@ -1,2 +1,2 @@
 [build]
-  publish = "dist/post"
+  publish = "notDist/post"
